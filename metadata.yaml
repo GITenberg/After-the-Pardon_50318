@@ -1,4 +1,8 @@
 _repo: After-the-Pardon_50318
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50318-h/images/cover.jpg
 creator:
   author:
     agent_name: Serao, Matilde
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7688
     wikipedia: http://en.wikipedia.org/wiki/Matilde_Serao
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50318#After-the-Pardon
 gutenberg_issued: '2015-10-26'
 gutenberg_type: Text
 identifiers:
